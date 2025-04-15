@@ -1,1 +1,1 @@
-# POOinJS
+# Object-Oriented Programming in JavaScript
